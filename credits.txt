@@ -1,4 +1,4 @@
-hearts are from zefew's irvyn azert originally by iSparkton, have been reshaded by Skadush
-blocks and non pvp items been modified from Richardoh
-crosshair by couleur
-bucket based on Sangria, by Inversine
+Aphotic-667 by Couleur and Kardesh
+
+The base of this pack is the Aphotic III, see it's recursive credits there:
+Couleur x Skadush x Strafe @ https://github.com/couleurm/Aphotic-III
